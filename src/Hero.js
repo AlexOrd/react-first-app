@@ -1,6 +1,5 @@
 import React from 'react';
 import banner from './banner.png';
-// import './App.css';
 
 function Hero() {
   return (
